@@ -1,2 +1,2 @@
 # demo2
-This is second demo for the practise git classes.
+This is second demo for the practise git classes. Hello world!
